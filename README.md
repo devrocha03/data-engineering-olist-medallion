@@ -1,3 +1,6 @@
+
+🌎 [Read in English](README_EN.md) | 🇧🇷 [Ler em Português](README.md)
+
 # 🛒 E-Commerce Data Engineering Pipeline (Olist)
 
 Este projeto é um pipeline de Engenharia de Dados End-to-End construído para processar dados reais do e-commerce brasileiro (Olist). O objetivo foi aplicar boas práticas de mercado estruturando os dados na **Arquitetura Medalhão (Bronze, Silver e Gold)**.
